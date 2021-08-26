@@ -42,27 +42,27 @@ By the end of the course the students will be able to
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Introduction to Machine Learning] |
-|  2 |  Fri, June 4         | [Logistic Regression] |
-|  3 |  Mon, June 7         | Lab |
-|  4 |  Wed, June 9         | [Linear Regression] |
-|  5 |  Fri, June 11        | [Model Evaluation] |
-|  6 |  Mon, June 14        | Lab |
-|  7 |  Wed, June 16        | [Support Vector Machines] |
-|  8 |  Fri, June 18        | [Decision Trees] |
-|  9 |  Mon, June 21        | Lab |
-| 10 |  Wed, June 23        | [Ensemble Methods] |
-| 11 |  Fri, June 25        | [Principal Component Analysis] |
-| 12 |  Mon, June 28        | Lab |
-| 13 |  Wed, June 30        | [Clustering] |
-| 14 |  Fri, July 2         | [Anomaly Detection] |
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 15 |  Wed, July 7         | [Naive Bayes] |
-| 16 |  Fri, July 9         | [TFIDF and its Application] |
-| 17 |  Mon, July 12        | Lab |
-| 18 |  Wed, July 14        | Lab |
-| 19 |  Fri, July 16        | Project Presentations |
+|  - |  Mon, August 23           | Introduction to Machine Learning] |
+|  1 |  Wed, August 25           | [Linear Regression] |
+|  2 |  Fri, August 27           | Lab |
+|  3 |  Mon, August 30           | [Logistic Regression] |
+|  4 |  Wed, September 1         | [Model Evaluation]|
+|  5 |  Fri, September 3         | Lab |
+|  - |  Mon, September 6         | **No Class - Labor Day** |
+|  6 |  Wed, September 8         | [Support Vector Machines] |
+|  7 |  Fri, September 10        | Lab |
+|  8 |  Mon, September 13        | [Decision Trees] |
+|  9 |  Wed, September 15        | [Ensemble Methods] |
+| 10 |  Fri, September 17        | Lab |
+| 11 |  Mon, September 20        | [Principal Component Analysis] |
+| 12 |  Wed, September 22        | [Clustering] |
+| 13 |  Fri, September 24        | Lab |
+| 14 |  Mon, September 27        | [Anomaly Detection] |
+| 15 |  Wed, September 29        | [Naive Bayes] |
+| 16 |  Fri, October 1           | Lab |
+| 17 |  Mon, October 4           | [TFIDF and its Application] |
+| 18 |  Wed, October 6           | (if time) Data Imputation, LDA |
+| 19 |  Fri, October 8           | Project Presentations |
 
 ---
 
@@ -87,7 +87,6 @@ By the end of the course the students will be able to
 | [Homework 1 - Linear Regression for Boston Housing Dataset] | Wed, June 9   | Wed, June 16 | [Homework 1]  |
 | [Homework 2 - SVM for Breast Cancer Dataset]                | Wed, June 16  | Wed, June 23 | [Homework 2]  |
 | [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]   | Fri, June 25  | Wed, July 7  | [Homework 3]  |
-| [Homework 4 - Naive Bayes and TFIDF]                        | Wed, July 7   | Wed, July 42 | [Homework 4]  |
 | [Final Project]                                             | Mon, June 7   | Fri, July 16 | [Homework 5]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: /Assignments/Home_Work_Linear_Regression.ipynb
