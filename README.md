@@ -44,7 +44,7 @@ By the end of the course the students will be able to
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, August 23           | Introduction to Machine Learning] |
+|  - |  Mon, August 23           | [Introduction to Machine Learning] |
 |  1 |  Wed, August 25           | [Linear Regression] |
 |  2 |  Fri, August 27           | Lab |
 |  3 |  Mon, August 30           | [Logistic Regression] |
