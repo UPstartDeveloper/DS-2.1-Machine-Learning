@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# DS 2.1 Machine Learning
+# ACS 3510 Machine Learning
 
 ## Course Description
 
@@ -132,7 +132,7 @@ Your Gradescope login is your Make School email, and your password can be change
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
 - **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
-- The [Final Project Guideline for DS 2.1](https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
+- The [Final Project Guideline for ACS 3510](https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
 - The [Rubric for Final Project](https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
 
 
@@ -150,7 +150,7 @@ To pass this course you must meet the following requirements:
 
 - [Awesome Data Science](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
 - [make.sc/library Data Science](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.j1vy4ijmo8w1)
-- [DS-2.1 Study Guide](https://docs.google.com/document/d/19uRmjtBVdyBdm--35uXiU3EKgh24JxPvHLXLOvmEeB8/edit#)
+- [ACS 3510 Study Guide](https://docs.google.com/document/d/19uRmjtBVdyBdm--35uXiU3EKgh24JxPvHLXLOvmEeB8/edit#)
 - [Example Machine Learning Project](https://github.com/jcatanza/good_wines_bad_wines)
 
 

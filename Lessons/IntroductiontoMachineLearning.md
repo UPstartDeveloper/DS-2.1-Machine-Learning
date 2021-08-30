@@ -3,7 +3,7 @@
 ## Class Learning Objectives/Competencies (5 min)
 
 1. What is data analysis, machine learning and data engineer?
-1. What topics DS 2.1 covers?
+1. What topics ACS 3510 covers?
 1. OOP paradigm in Sklearn
 
 ## What we have learned in DS 1.1 as a Data Analyst?
@@ -13,7 +13,7 @@
 Check this out as a good resource for Data Analyst/ Data Engineer/ Data Scientist roles:
 https://www.springboard.com/blog/wp-content/uploads/2016/07/UltimateGuidetoDataScienceInterviews-1.pdf
 
-## What we are going to learn in DS 2.1 which covers Machine Learning?
+## What we are going to learn in ACS 3510 which covers Machine Learning?
 
 ### what is machine learning?
 - Use data and algorithm that predict or classify the unseen upcoming data with acceptable accuracy

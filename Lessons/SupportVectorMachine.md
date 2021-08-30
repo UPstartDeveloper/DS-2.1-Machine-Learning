@@ -57,4 +57,4 @@
 
 ## Additional Resources
 
-1. https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/SVM_tutorial.ipynb
+1. https://github.com/Tech-at-DU/ACS-3510-Machine-Learning/blob/master/Notebooks/SVM_tutorial.ipynb
