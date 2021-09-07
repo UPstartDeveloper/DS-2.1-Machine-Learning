@@ -86,10 +86,10 @@ By the end of the course the students will be able to
 
 |                        Assignment                           | Date Assigned |   Due Date   |            Gradescope Link           |
 |:-----------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset] | Wed, June 9   | Wed, June 16 | [Homework 1]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                | Wed, June 16  | Wed, June 23 | [Homework 2]  |
-| [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]   | Fri, June 25  | Wed, July 7  | [Homework 3]  |
-| [Final Project]                                             | Mon, June 7   | Fri, July 16 | [Homework 5]  |
+| [Homework 1 - Linear Regression for Boston Housing Dataset] | Tues, August 31   | Wed, September 8 | [Homework 1]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                | TBD | TBD | [Homework 2]  |
+| [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]   | TBD  | TBD  | [Homework 3]  |
+| [Final Project]                                             | TBD   | TBD | [Homework 5]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: /Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]: /Assignments/08_Support_Vector_Machines.ipynb
