@@ -1,7 +1,7 @@
 <p align="center">
   <a href=https://www.dominican.edu/academics/undergraduate-programs/applied-computer-science>
-    <img alt="Robot icon" 
-         src="https://img.icons8.com/bubbles/100/000000/robot.png"
+    <img alt="Dominican University of California Athletics logo" 
+         src="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/dominicanathletics.com/images/responsive_2020/logo_main.svg"
          height="110"/>
   </a>
 </p>
