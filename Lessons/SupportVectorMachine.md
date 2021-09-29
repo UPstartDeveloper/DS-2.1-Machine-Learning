@@ -1,4 +1,4 @@
-# Support Vector Machine [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_svm.ipynb)
+# Support Vector Machine [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_svm.ipynb)
 
 ## Class Learning Objectives/Competencies (5 min)
 
@@ -57,4 +57,4 @@
 
 ## Additional Resources
 
-1. https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/SVM_tutorial.ipynb
+1. https://github.com/Tech-at-DU/ACS-3510-Machine-Learning/blob/master/Notebooks/SVM_tutorial.ipynb
